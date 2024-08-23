@@ -8,7 +8,7 @@ Classes:
  ![image](https://github.com/user-attachments/assets/f01d7bac-3bd6-4443-a749-b393d054c3d7)
 
 
-
+~~~~~~~~
 Conexão com banco de dados:
 ![image](https://github.com/user-attachments/assets/74f24353-8896-4bb1-8661-ae3d5e546eb5)
 
@@ -60,11 +60,10 @@ Banco de dados:
 
 
 Deploy em nuvem:
-•	Utilizamos a aws para a realização do deploy em nuvem
-•	id da instancia: i-05fa8b2d79fa47a83
-•	public dns: ec2-3-17-79-103.us-east-2.compute.amazonaws.com
-•	usuário: Administrador
-•	senha: qF8d(W=&5gnGYqTl3gIJJ4kn6meNJRpK
+•	Utilizamos o azure para a realização do deploy em nuvem
+
+
+Dominio do projeto : brinquedosjava-e9aufvfxcuhffuf7.eastus-01.azurewebsites.net
 
 
 
